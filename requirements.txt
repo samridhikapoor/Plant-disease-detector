@@ -1,6 +1,6 @@
 flask
 keras
-tensorflow
+tensorflow-cpu
 pillow
 pandas
 gunicorn
