@@ -111,13 +111,11 @@ Knowing if the plant is suffering with a disease we can conclude which pesticide
 5. Had Trouble in deployment of our model on website , and linking backend with  the frontend.
 
 ## Contributors
-[Nischay](https://github.com/NischayGoyal1)
 
 [Samridhi](https://github.com/samridhikapoor)
 
-[Niranjan](https://github.com/NiranjanHebli)
+[Arya](https://github.com/arya312)
 
-[Rohan](https://github.com/Rohan5202)
 
 ## Conclusion 
 
